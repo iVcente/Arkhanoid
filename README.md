@@ -9,8 +9,8 @@ How to play the game
 ---
 
 You can use the following commands:
-* `←` or `A` : Moves the platform to the left
-* `→` or `D` : Moves the platform to the right
+* `A` or `←` : Moves the platform to the left
+* `D` or `→` : Moves the platform to the right
 
 How to run the game or check how the game was made
 ---
